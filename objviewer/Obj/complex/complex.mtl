@@ -1,0 +1,173 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 19.04.2012 20:49:09
+
+newmtl Wood
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0667 0.1843 0.0588
+	Kd 0.2000 0.5529 0.1765
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASHSEN_2.GIF
+	map_Kd maps\ASHSEN_2.GIF
+
+newmtl concrete
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0889 0.0641 0.1817
+	Kd 0.2667 0.1922 0.5451
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\Concgren.jpg
+	map_Kd maps\Concgren.jpg
+
+newmtl shiny_apple
+	Ns 38.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0353 0.2235 0.2170
+	Kd 0.1059 0.6706 0.6510
+	Ks 0.5400 0.5400 0.5400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\AppleTex.jpg
+	map_Kd maps\AppleTex.jpg
+
+newmtl stem
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4824 0.4118 0.1333
+	Kd 0.7020 0.6627 0.5020
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+
+newmtl bottle___body
+	Ns 39.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0641 0.1582 0.1817
+	Kd 0.4078 0.2353 0.1529
+	Ks 0.8640 0.8640 0.8640
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\gluggo.jpg
+	map_Kd maps\gluggo.jpg
+
+newmtl Material__27
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1000 0.1000 0.1000
+	Kd 0.9686 0.8588 0.6196
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_bump -bm 0.3000 maps\Map__17_Dent.tga
+
+newmtl wire_153228184
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6000 0.8941 0.7216
+	Kd 0.6000 0.8941 0.7216
+	Ks 0.3500 0.3500 0.3500
+
+newmtl label
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0641 0.1294 0.2261
+	Kd 0.9922 0.9922 0.9961
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\gluggo.jpg
+	map_Kd maps\gluggo.jpg
+
+newmtl Material__3
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0889 0.0641 0.1817
+	Kd 0.0627 0.0627 0.0627
+	Ks 0.2640 0.2640 0.2640
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_229166215
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8980 0.6510 0.8431
+	Kd 0.8980 0.6510 0.8431
+	Ks 0.3500 0.3500 0.3500
+
+newmtl leaf
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2183 0.1190 0.0641
+	Kd 0.6549 0.3569 0.1922
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\DFLEAF7.JPG
+	map_Kd maps\DFLEAF7.JPG
+	map_d maps\DFLEAF7O.GIF
+
+newmtl Material__13
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0641 0.1294 0.2261
+	Kd 0.1922 0.3882 0.6784
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\DFLEAF7.JPG
+	map_Kd maps\DFLEAF7.JPG
+	map_d maps\DFLEAF7O.GIF
+
+newmtl orange
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0641 0.1582 0.1817
+	Kd 0.1922 0.4745 0.5451
+	Ks 0.0450 0.0450 0.0450
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\OrangeTex.jpg
+	map_Kd maps\OrangeTex.jpg
